@@ -1,0 +1,8 @@
+com\example\dem\Repository\UserRepository.class
+com\example\dem\Service\UserService.class
+com\example\dem\model\Register.class
+com\example\dem\model\ChangePassword.class
+com\example\dem\model\Login.class
+com\example\dem\Controller\UserController.class
+com\example\dem\DemApplication.class
+com\example\dem\model\User.class
